@@ -1,0 +1,27 @@
+How we can write JS in Html?
+To call JS in HTML we use {variable_name}
+To print array always use map()
+
+How we handle the click events?
+onclick
+
+What is conditional Rendering?
+(condition)?Statement1 : Statement2
+
+Their are three Pillars of React:
+Hooks : Features of React
+State : Manage the data of the component
+Props : Transferring Data from One componentto anthor.
+
+What is State?
+State of a component that is handled by useState() & this is th first Hook as well.
+
+What we find in useState?
+[cuurentValue,function]
+
+What is this function?
+To update the current value.
+
+How we can add the CSS in our JSX file?
+External : import
+Inline : style={{}} why two curly brackets?
