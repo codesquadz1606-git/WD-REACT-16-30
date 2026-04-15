@@ -1,0 +1,17 @@
+JSX : Javascript Xtensible
+Where you can write HTML & Js Together.
+
+React always works on Component BAsed Archeiture
+2 types:
+Functional Based Component : Where it easy to understand , fast.
+Class Based Component : Deprecate ?why  Because this was too slow , lengthy and can't adapt react features.
+
+When we make component :
+Component first letter must be capital.
+File name and component name must be same.(unless you are exporting on component from single file.)
+
+Import & Export of a component.
+
+Export are of two types:
+i. default export : it allowed only once in a file.
+ii. named export : It can export any amount of components.
