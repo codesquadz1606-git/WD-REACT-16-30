@@ -1,0 +1,6 @@
+State means that manage the value in the component.
+
+Our first hook :
+useState() : [current,function]
+
+Wrapper Element :
