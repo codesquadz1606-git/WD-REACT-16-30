@@ -1,0 +1,12 @@
+Props: Sharing data from one component to anthor.
+
+<Component data.../>
+data is shared as a attribute.
+
+Now , how to hanlde the data?
+props
+
+object destructing = {keynames....}
+
+fetch() : It is promise.
+Promise is handled by then & catch method
