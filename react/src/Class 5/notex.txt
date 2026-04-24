@@ -1,0 +1,26 @@
+What is API?
+Application programming Interface.
+
+fetch() : Promise
+then & catch
+
+Whenever their will any side effect on our page :
+useEffect() 
+It is a hook, which is used to handle any side-effect on our UI.
+
+useEffect have 3 cases:
+Case 1 : Without any Dependency
+    In this case it will re-render on any update in a webpage.
+
+Case 2 : With Empty Array
+    In this it will only render at the first refresh after that their will be no re-renders.
+
+Case 3 : With Dependency
+    It will only trigger when their is any change in our dependency.
+
+Syntax:
+useEffect(callback,dependency)
+
+Per page: 10 Products
+TOtal Products : 194
+
