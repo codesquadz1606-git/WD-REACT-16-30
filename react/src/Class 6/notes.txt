@@ -1,0 +1,26 @@
+Creating Routing on a page?
+react router dom
+
+Step 1 : Installation of package
+Step 2 : Creating the router : 'createBrowserRouter'
+
+Step 3: Add the routes , here routes are added in {path:"",element:}
+
+Step 4: Create the element according to our paths.
+Step 5: Attach atll the elements to their path.
+Step 6: Provide thr router to our component : 'RouterProvider'
+
+How we can handle the unknown routes?
+We will create on default route , jo saare errors ko handle karega,
+
+I want to display the route also on a page? : useLocation()
+
+How I can page an children routes?
+SO for this go to that parent route and add a new object "children"
+If we want to add children in our parents so we have to use <Outlet> in the parent component
+
+
+React works on single page application.
+When we are working on SPA , my linked page must not contain the load time.
+therefore a tag is not used in SPA
+Instead of a tag we use <Link> Tag

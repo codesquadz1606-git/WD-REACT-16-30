@@ -1,0 +1,13 @@
+.navi ul{
+    display: flex;
+    gap: 30px;
+}
+
+.navi ul li{
+    list-style: none;
+}
+
+.navi ul li a{
+    color: white;
+
+}
