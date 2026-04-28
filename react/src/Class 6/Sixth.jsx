@@ -9,6 +9,7 @@ import Python from './elements/Children/Python'
 import Mern from './elements/Children/Mern'
 import Ds from './elements/Children/Ds'
 import Navbar from './elements/Navbar'
+import Student from './elements/Student'
 const Sixth = () => {
     const routes=createBrowserRouter([
         {
@@ -42,6 +43,10 @@ const Sixth = () => {
                     element:<Ds/>
                 }
             ]
+        },
+        {
+            path:"/student/:id", // for transfering data.
+            element :<Student/>
         },
         {
             path:"/contact",
