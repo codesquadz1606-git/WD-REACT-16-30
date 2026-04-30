@@ -9,6 +9,7 @@ import Product from './Class 4/new/Product'
 import Fifth from './Class 5/Fifth'
 import Sixth from './Class 6/Sixth'
 import Seventh from './Class 7/Seventh'
+import Eight from './Class 8/Eight'
 
 function App() {
   return (
@@ -28,7 +29,9 @@ function App() {
 
       {/* <Sixth/> */}
 
-      <Seventh/>
+      {/* <Seventh/> */}
+
+      {/* <Eight/> */}
     </>
   )
 }
